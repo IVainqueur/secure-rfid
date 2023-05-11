@@ -20,7 +20,7 @@ src
 ## Contributors
 - [ISHIMWE Vainqueur](https://github.com/IVainqueur)
 - [Gakuba Edmond](https://github.com/edmondgaks)
-- [Manzi Cedrick](https://github.com/manzicedrick)
+- [Manzi Cedrick](https://github.com/Manzi-Cedrick)
 - [Ndayishimiye Gilbert](https://github.com/nday-gilbert)
 - [UMUTONI Mireille](https://github.com/umutunomireille)
 

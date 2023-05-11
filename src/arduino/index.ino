@@ -43,10 +43,7 @@ void loop() {
         Serial.print(F("[check-access]"));
         printHex(rfid.uid.uidByte, rfid.uid.size);
         Serial.println(F("\n"));
-        while(!Serial.available()){
-          delay(10);
-        }
-        Serial.println();
+        Serial.setTimeout(3000);
         String res = Serial.readString();
         res.trim();
         Serial.print("|");
