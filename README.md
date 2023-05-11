@@ -17,3 +17,10 @@ src
     └── v2 # will use sqlite as database
 ```
 
+## Contributors
+- [ISHIMWE Vainqueur](https://github.com/IVainqueur)
+- [Gakuba Edmond](https://github.com/edmondgaks)
+- [Manzi Cedrick](https://github.com/manzicedrick)
+- [Ndayishimiye Gilbert](https://github.com/nday-gilbert)
+- [UMUTONI Mireille](https://github.com/umutunomireille)
+
