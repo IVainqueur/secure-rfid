@@ -22,5 +22,5 @@ src
 - [Gakuba Edmond](https://github.com/edmondgaks)
 - [Manzi Cedrick](https://github.com/Manzi-Cedrick)
 - [Ndayishimiye Gilbert](https://github.com/nday-gilbert)
-- [UMUTONI Mireille](https://github.com/umutunomireille)
+- [UMUTONI Mireille](https://github.com/Umutonimireille)
 
