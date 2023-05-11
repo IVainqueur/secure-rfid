@@ -1,9 +1,9 @@
 # Secure-RFID
-In this repo, I implement a security system with RFID cards and python. 
+In this repo, we implement a security system with RFID cards and python. 
 
 in v1, the python "backend" has a `tags.txt` file that has all the Card IDs that are allowed into the system.
 
-in v2, I want to integrate `sqlite` instead of a text file.
+in v2, we want to integrate `sqlite` instead of a text file.
 
 ## Structure
 ```txt
