@@ -36,7 +36,7 @@ def populate_DB(card: str):
     con.execute(query, (card,))
     con.commit()
     con.close()
-    print("DONEEEEEEEEEEe")
+    print("[py:log] new card added to db")
 
 
 def readFile(uuid):
@@ -62,7 +62,7 @@ if __name__ == "__main__":
             line = ser.readline().decode("utf-8").rstrip()
             print(line)
             if line[0:14] == "[check-access]":
-                print("Checking Access...")
+                print("[py:log] Checking Access...")
                 isAllowed = readFile(line[14:].rstrip().lstrip())
                 response = "granted" if isAllowed else "denied"
                 ser.write(response.encode())
